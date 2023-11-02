@@ -14,6 +14,7 @@ date = []
 hame_team = []
 score = []
 away_team = []
+
 def scrape():
 
     button.click()
