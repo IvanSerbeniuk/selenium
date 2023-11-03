@@ -1,21 +1,501 @@
 ,title,author,length
-0,Jon and Mack's Terrifying Tree Troubles,By: AJ Sherwood,Length: 6 hrs and 17 mins
+0,The Primal Hunter 7 - A LitRPG Adventure,By: Zogarth,Length: 17 hrs and 49 mins
 1,Food Stamp Warrior,By: John Deaton,Length: 10 hrs and 50 mins
 2,Defiance of the Fall 11,"By: TheFirstDefier, JF Brink",Length: 24 hrs and 47 mins
-3,Cruel Promise,By: Nicole Fox,Length: 11 hrs and 5 mins
+3,Jon and Mack's Terrifying Tree Troubles,By: AJ Sherwood,Length: 6 hrs and 17 mins
 4,The Rules of Dating My One-Night Stand,"By: Penelope Ward, Vi Keeland",Length: 9 hrs and 12 mins
-5,The Primal Hunter 7 - A LitRPG Adventure,By: Zogarth,Length: 17 hrs and 49 mins
+5,Cruel Promise,By: Nicole Fox,Length: 11 hrs and 5 mins
 6,A Court of Silver Flames (2 of 2) (Dramatized Adaptation),By: Sarah J. Maas,Length: 10 hrs and 33 mins
-7,Snowed In,By: Catherine Walsh,Length: 10 hrs and 38 mins
-8,The House of Love and Death,By: Andrew Klavan,Length: 10 hrs and 25 mins
-9,The Pale House Devil,By: Richard Kadrey,Length: 2 hrs and 40 mins
-10,Murder in a French Village,By: Merryn Allingham,Length: 7 hrs and 56 mins
-11,Devil in Disguise,By: Robin Alexander,Length: 7 hrs and 24 mins
-12,The Ghost and the Wedding Crasher,"By: Bobbi Holmes, Anna J. McIntyre",Length: 8 hrs and 59 mins
-13,Road to Mastery 2,By: Valerios,Length: 36 hrs and 21 mins
-14,Confessions: Chloé,By: Ella Frank,Length: 6 hrs and 59 mins
-15,Crowning Destiny,By: Amelia Hutchins,Length: 10 hrs and 22 mins
-16,The Graham Effect,By: Elle Kennedy,Length: 14 hrs and 3 mins
-17,Too Good to Be True,By: Kristen Ashley,Length: 11 hrs and 59 mins
-18,The Spy Coast,By: Tess Gerritsen,Length: 10 hrs and 23 mins
-19,Upon Waking,By: Jackie Hill Perry,Length: 3 hrs and 28 mins
+7,Upon Waking,By: Jackie Hill Perry,Length: 3 hrs and 28 mins
+8,The Pale House Devil,By: Richard Kadrey,Length: 2 hrs and 40 mins
+9,Snowed In,By: Catherine Walsh,Length: 10 hrs and 38 mins
+10,Devil in Disguise,By: Robin Alexander,Length: 7 hrs and 24 mins
+11,Road to Mastery 2,By: Valerios,Length: 36 hrs and 21 mins
+12,Born to Sin,By: Rosalind James,Length: 15 hrs and 54 mins
+13,Confessions: Chloé,By: Ella Frank,Length: 6 hrs and 59 mins
+14,Crowning Destiny,By: Amelia Hutchins,Length: 10 hrs and 22 mins
+15,The Spy Coast,By: Tess Gerritsen,Length: 10 hrs and 23 mins
+16,Backyard Goblins,By: Virgil Knightley,Length: 7 hrs and 31 mins
+17,Red Sky Mourning,By: Jack Carr,Length: 15 hrs and 30 mins
+18,Seraph,By: Lily Mayne,Length: 17 hrs and 50 mins
+19,Against the Witchy Tide,By: Lily Harper Hart,Length: 7 hrs and 32 mins
+20,With This Woman,By: Jodi Ellen Malpas,Length: 23 hrs and 53 mins
+21,Fire and Song,By: Bryce O'Connor,Length: 32 hrs and 37 mins
+22,The Day After the Party,By: Nicole Trope,Length: 8 hrs and 39 mins
+23,The Engineer,By: Will Wight,Length: Not Yet Known
+24,Flip Trick,By: Amo Jones,Length: 10 hrs and 11 mins
+25,Path of Tyrants,"By: J.N. Chaney, Terry Maggert",Length: 11 hrs and 8 mins
+26,Decentering Whiteness in the Workplace,By: Janice Gassam Asare,Length: 6 hrs and 19 mins
+27,Born of Blood and Ash,By: Jennifer L. Armentrout,Length: 24 hrs
+28,Wiring the Winning Organization,"By: Gene Kim, Steve Spear",Length: 10 hrs and 52 mins
+29,The Altar Girls,By: Patricia Gibney,Length: 13 hrs and 35 mins
+30,Quarter to Midnight,By: Darcy Coates,Length: 8 hrs and 9 mins
+31,White Witchmas,By: Amanda M. Lee,Length: 8 hrs and 36 mins
+32,One of Our Own,By: Lucinda Berry,Length: 4 hrs
+33,Great Awakening,"By: Alex Jones, Kent Heckenlively - contributor",Length: 12 hrs and 48 mins
+34,Pretend,By: R.L. Mathewson,Length: 6 hrs and 39 mins
+35,Renegade,"By: Adam Kinzinger, Michael D'Antonio - contributor",Length: 8 hrs and 14 mins
+36,Second Down Darling,By: Lex Martin,Length: 8 hrs and 56 mins
+37,Shifter,By: Hercules West,Length: 11 hrs and 3 mins
+38,The Lover,By: Silvia Moreno-Garcia,Length: 1 hr and 18 mins
+39,The Proof of the Pudding,By: Rhys Bowen,Length: Not Yet Known
+40,Journey of a Betrayed Hero Publisher's Pack,By: Brandon Varnell,Length: 16 hrs and 6 mins
+41,All the Little Raindrops,By: Mia Sheridan,Length: 13 hrs and 51 mins
+42,Laws of Annihilation,By: Eriq La Salle,Length: 10 hrs and 48 mins
+43,Barbarians Inside the Gates and Other Controversial Essays,By: Thomas Sowell,Length: 8 hrs and 40 mins
+44,The Gloom Between Stars,By: Piper CJ,Length: 15 hrs and 15 mins
+45,Dirty Thirty,By: Janet Evanovich,Length: 8 hrs and 2 mins
+46,Lords of Darkness,By: Amanda Richardson,Length: 7 hrs and 32 mins
+47,Being Henry,By: Henry Winkler,Length: 9 hrs and 22 mins
+48,A Fire in the Flesh,By: Jennifer L. Armentrout,Length: 24 hrs and 3 mins
+49,The Miracle Morning (Updated and Expanded Edition),By: Hal Elrod,Length: 7 hrs and 22 mins
+50,The New Saints,By: Lama Rod Owens,Length: 11 hrs and 43 mins
+51,Duty,By: Michael Stephen Fuchs,Length: 7 hrs and 55 mins
+52,Hellprinces: A LitRPG Adventure,By: V.A. Lewis,Length: 20 hrs and 43 mins
+53,Attempted Rescuing,By: L.G. Estrella,Length: 17 hrs and 14 mins
+54,The Berry Pickers,By: Amanda Peters,Length: 8 hrs and 44 mins
+55,Crystal World,By: B.V. Larson,Length: 14 hrs and 26 mins
+56,Think Twice,By: Harlan Coben,Length: 10 hrs
+57,Gut Health for Women,By: J. J. Nicolls,Length: 4 hrs and 45 mins
+58,Fly Fishing Small Streams,By: John Gierach,Length: 4 hrs and 17 mins
+59,Outbound Flight,By: Timothy Zahn,Length: 14 hrs
+60,The Ghost and the Wedding Crasher,"By: Bobbi Holmes, Anna J. McIntyre",Length: 8 hrs and 59 mins
+61,No Rules,By: Nora Phoenix,Length: 7 hrs and 51 mins
+62,Dungeon Diving 103,By: Bruce Sentar,Length: 12 hrs and 57 mins
+63,The Titan of Baleros,By: pirateaba,Length: 40 hrs and 55 mins
+64,Teach Me to Sin,By: Riley Nash,Length: 9 hrs and 56 mins
+65,Survivor's Quest,By: Timothy Zahn,Length: 14 hrs
+66,Exploring Home,By: A. American,Length: 11 hrs and 59 mins
+67,Galaxy Unknown,By: M.R. Forbes,Length: 9 hrs and 20 mins
+68,Third Eye: The Sound of Peace,By: Mark Hayden,Length: 18 hrs and 24 mins
+69,Kismet,By: Ashley James,Length: 11 hrs and 57 mins
+70,The Rise,By: Ian Rankin,Length: 2 hrs and 26 mins
+71,Dangerous Rescue,By: Riley Edwards,Length: 6 hrs and 55 mins
+72,Fourth Wing (Part 1 of 2) (Dramatized Adaptation),By: Rebecca Yarros,Length: 8 hrs
+73,The Complete Sinful Men Collection,By: Lauren Blakely,Length: 36 hrs and 38 mins
+74,A Mage's Guide to Wicky,By: AJ Sherwood,Length: 3 hrs and 16 mins
+75,Redemption,By: Meghan March,Length: 6 hrs
+76,Illegitimate Authority,"By: Noam Chomsky, C.J. Polychroniou - editor",Length: 12 hrs and 46 mins
+77,The Bad Weather Friend,By: Dean Koontz,Length: 11 hrs
+78,Too Good to Be True,By: Kristen Ashley,Length: 11 hrs and 59 mins
+79,House of Flame and Shadow,By: Sarah J. Maas,Length: Not Yet Known
+80,By the Grace of the Gods: Volume 5,"By: Roy, Noah Rozenberg - translator",Length: 6 hrs and 44 mins
+81,My Name Is Barbra,By: Barbra Streisand,Length: 48 hrs and 15 mins
+82,Camino Ghosts,By: John Grisham,Length: 9 hrs
+83,The Great Disappearance,By: Dr. David Jeremiah,Length: 6 hrs and 25 mins
+84,The Woman They Wanted,By: Shannon Harris,Length: 5 hrs and 43 mins
+85,Zoey Is Too Drunk for This Dystopia,By: Jason Pargin,Length: 15 hrs and 4 mins
+86,Mark of the Fool 4,By: J.M. Clarke,Length: 19 hrs and 45 mins
+87,System Collapse,By: Martha Wells,Length: 6 hrs and 36 mins
+88,White Holes,By: Carlo Rovelli,Length: 2 hrs and 48 mins
+89,War of the Scaleborn (World of Warcraft: Dragonflight),By: Courtney Alameda,Length: 15 hrs and 36 mins
+90,The House of Love and Death,By: Andrew Klavan,Length: 10 hrs and 25 mins
+91,The Complete Jaipur Trilogy,By: Alka Joshi,Length: 33 hrs and 44 mins
+92,Beyond OODA,By: Varg Freeborn,Length: 4 hrs and 41 mins
+93,Know What Matters,By: Ron Shaich,Length: 8 hrs and 30 mins
+94,A Touch of Chaos,By: Scarlett St. Clair,Length: 12 hrs
+95,How to Be the Love You Seek,By: Dr. Nicole LePera,Length: 10 hrs
+96,Kissed by Chaos,"By: Kel Carpenter, Aurelia Jane",Length: 10 hrs and 38 mins
+97,Jack Frost,By: Debbie Macomber,Length: 1 hr and 44 mins
+98,"Tales from the Gas Station, Volume Four",By: Jack Townsend,Length: 14 hrs and 41 mins
+99,The House of Hidden Meanings,By: RuPaul,Length: 12 hrs
+100,"Love, Again",By: April Berry,Length: 8 hrs and 15 mins
+101,Fool's Play,"By: Tao Wong, David R. Packer",Length: 8 hrs and 34 mins
+102,Lights Out,By: Elise Hart Kipness,Length: 9 hrs and 48 mins
+103,Ruins of Sea and Souls,By: Lisette Marshall,Length: 19 hrs and 2 mins
+104,Dom,By: S.J. Tilly,Length: 12 hrs and 25 mins
+105,The Race to Be Myself,By: Caster Semenya,Length: 11 hrs and 31 mins
+106,Dirty Crazy Bad: A Prequel Short Story,By: Siobhan Davis,Length: 49 mins
+107,Somewhere Beyond the Sea,By: TJ Klune,Length: 12 hrs
+108,The Last Sanctuary,By: Clay Wise,Length: 30 hrs and 45 mins
+109,Best Friend Temptation,By: Carrie Ann Ryan,Length: 6 hrs and 1 min
+110,Why We Love Middle-earth,"By: Shawn E Marchese, Alan Sisto",Length: 10 hrs and 45 mins
+111,Wren and Oak,By: Sam Burns,Length: 4 hrs and 43 mins
+112,Children of Anguish and Anarchy,By: Tomi Adeyemi,Length: 12 hrs
+113,Genefather,By: Guy Haley,Length: 10 hrs and 14 mins
+114,The Edge,By: David Baldacci,Length: 11 hrs and 45 mins
+115,Housemoms,By: Jen Lancaster,Length: 9 hrs and 6 mins
+116,The Narrow Road Between Desires,By: Patrick Rothfuss,Length: 8 hrs
+117,Blood at the Root,By: LaDarrion Williams,Length: 15 hrs and 30 mins
+118,The Lost Fiancé Twist,By: Ana Ashley,Length: 6 hrs and 16 mins
+119,Residue,By: Steve Diamond,Length: 7 hrs and 13 mins
+120,Aftermath,By: Craig Alanson,Length: 21 hrs and 6 mins
+121,Feel-Good Productivity,By: Ali Abdaal,Length: 9 hrs
+122,The Southern Trial,By: Peter O'Mahoney,Length: 7 hrs and 15 mins
+123,The Paleontologist,By: Luke Dumas,Length: 11 hrs and 38 mins
+124,Junkyard Commandos,By: Jamie McFarlane,Length: 11 hrs and 9 mins
+125,Coach Builder,By: Donald Miller,Length: 4 hrs and 30 mins
+126,Undulate,By: Elodie Hart,Length: 10 hrs and 20 mins
+127,Lonely House,By: M Belanger,Length: 4 hrs and 3 mins
+128,The Wrong Game,By: S.M. Anderson,Length: 13 hrs and 51 mins
+129,The Case of the Felonious Faire,By: Drew Hayes,Length: 7 hrs and 46 mins
+130,Law of Consequences,By: David Burke,Length: 8 hrs and 6 mins
+131,Hendo,"By: Dan Henderson, David Kano - contributor",Length: 10 hrs
+132,Fortune House,By: Jeannie Rivera,Length: 3 hrs and 49 mins
+133,When I'm Dead,By: Hannah Morrissey,Length: 10 hrs and 37 mins
+134,Visions,By: Charles Welch,Length: 5 hrs and 8 mins
+135,Gilded Mess: Three Bears Duet,By: Colette Rhodes,Length: 7 hrs and 5 mins
+136,Retribution,By: TurtleMe,Length: 25 hrs and 25 mins
+137,Recipe for Second Chances,By: Ali Rosen,Length: 8 hrs and 10 mins
+138,Stay Over,By: Kaylee Ryan,Length: 9 hrs and 9 mins
+139,It's Not You,By: Ramani Durvasula PhD,Length: 12 hrs
+140,Dorsay: An Isekai LitRPG,"By: Christopher Hall, Maxlex",Length: 13 hrs and 22 mins
+141,Villain Town: Big Bad,By: Lucas Flint,Length: 15 hrs and 22 mins
+142,Dungeon Tour Guide 2,By: Aaron Shih,Length: 16 hrs and 26 mins
+143,Absolution,By: Alice McDermott,Length: 10 hrs and 2 mins
+144,State of Bliss,By: Marie Force,Length: Not Yet Known
+145,Areté,"By: Brian Johnson, Phil Stutz - foreword",Length: 19 hrs and 57 mins
+146,The Olympian Affair,By: Jim Butcher,Length: 20 hrs and 23 mins
+147,Mental Toughness for Teen Athletes,By: LD Harris,Length: 3 hrs and 38 mins
+148,Network of Lies,By: Brian Stelter,Length: 10 hrs
+149,God's Monsters,By: Esther Hamori,Length: 9 hrs and 54 mins
+150,Sinful Obsession,By: Asia Monique,Length: 6 hrs and 9 mins
+151,Song of Darkness,"By: J.N. Chaney, Terry Maggert",Length: 10 hrs and 42 mins
+152,Is God Real?,By: Lee Strobel,Length: 6 hrs and 39 mins
+153,Rebel Obsession,By: Elle Thorpe,Length: 10 hrs and 28 mins
+154,Craving in His Blood,By: Zoey Draven,Length: 11 hrs and 37 mins
+155,Greenlights,By: Matthew McConaughey,Length: 6 hrs and 42 mins
+156,Iron Flame,By: Rebecca Yarros,Length: 28 hrs and 16 mins
+157,The Chaos Agent,By: Mark Greaney,Length: Not Yet Known
+158,War and Peace,By: Leo Tolstoy,Length: 50 hrs and 39 mins
+159,Mind Games,By: Nora Roberts,Length: 14 hrs and 30 mins
+160,Moments of Malevolence,By: T.L. Smith,Length: 6 hrs and 12 mins
+161,Same as Ever,By: Morgan Housel,Length: 5 hrs and 46 mins
+162,Liars and Liaisons,By: Sav R. Miller,Length: 11 hrs and 11 mins
+163,Choose Your Enemies Wisely,"By: Patrick Bet-David, Greg Dinkin",Length: 11 hrs
+164,Cachalot,By: Alan Dean Foster,Length: 9 hrs and 19 mins
+165,Justice,By: K.C. Lynn,Length: 7 hrs and 55 mins
+166,Unforgettable,By: Willow Aster,Length: 8 hrs and 57 mins
+167,Devil in Boots,By: Stacey Marie Brown,Length: 11 hrs and 35 mins
+168,Hell Divers XI: Renegades,By: Nicholas Sansbury Smith,Length: 14 hrs
+169,The No Regrets Collection,By: Lauren Blakely,Length: 21 hrs and 53 mins
+170,Resurrection Walk,By: Michael Connelly,Length: 10 hrs and 30 mins
+171,Inheritance,By: Nora Roberts,Length: 13 hrs and 51 mins
+172,On Great Fields,By: Ronald C. White,Length: 14 hrs and 23 mins
+173,The Blue Hour Sanction,By: Landon Beach,Length: 12 hrs and 4 mins
+174,Druden (Dramatized Adaptation),"By: Scott Sigler, Adrian Picardi",Length: 2 hrs and 46 mins
+175,Anathema,By: Nick Roberts,Length: 8 hrs and 7 mins
+176,Child of the Sky,By: B. B. Griffith,Length: 8 hrs and 21 mins
+177,The Worlds I See,By: Fei-Fei Li,Length: 12 hrs and 10 mins
+178,Savage Storm,By: Naomi Porter,Length: 9 hrs and 19 mins
+179,Everyone Dies,By: Michael McGarrity,Length: 7 hrs and 57 mins
+180,The Mystery Guest,By: Nita Prose,Length: 8 hrs and 23 mins
+181,The Dodger Run Homestead,By: Marie Wilkens,Length: 6 hrs and 32 mins
+182,Secrets of Traveling on Social Security,By: Jerry Minchey,Length: 2 hrs and 34 mins
+183,Only in Death,By: Dan Abnett,Length: 11 hrs and 28 mins
+184,The Fund,By: Rob Copeland,Length: 12 hrs and 54 mins
+185,Runelight,By: JA Andrews,Length: 23 hrs and 13 mins
+186,My Quiet Blacksmith Life in Another World: Volume 3,By: Tamamaru,Length: 8 hrs and 17 mins
+187,The Laws of Human Nature,By: Robert Greene,Length: 28 hrs and 26 mins
+188,Super Sales on Super Heroes 6,By: William D. Arand,Length: 12 hrs and 35 mins
+189,France on Trial,By: Julian Jackson,Length: 14 hrs and 59 mins
+190,The Posh Prepper,By: Todd Knight,Length: 12 hrs and 55 mins
+191,Preceptor,By: Terry Mancour,Length: 22 hrs and 13 mins
+192,Slay,By: Laurell K. Hamilton,Length: 12 hrs and 35 mins
+193,Armies of Kragdon-ah,By: Shawn Inmon,Length: 10 hrs and 22 mins
+194,Tom Clancy Command and Control,By: Marc Cameron,Length: Not Yet Known
+195,He Who Fights with Monsters 10,"By: Shirtaloon, Travis Deverell",Length: 20 hrs
+196,Stranger Things: Flight of Icarus,By: Caitlin Schneiderhan,Length: 9 hrs and 14 mins
+197,Pine River,By: Tijan,Length: 13 hrs and 44 mins
+198,Alliance of Outlaws,By: Ben Hale,Length: 14 hrs and 46 mins
+199,The Eye of the Bedlam Bride,By: Matt Dinniman,Length: 26 hrs and 46 mins
+200,Alex Cross Must Die,By: James Patterson,Length: 8 hrs and 52 mins
+201,The Graham Effect,By: Elle Kennedy,Length: 14 hrs and 3 mins
+202,Combustible Magic,By: Iris Beaglehole,Length: 10 hrs and 10 mins
+203,Pucking Wild,By: Emily Rath,Length: 18 hrs and 4 mins
+204,How to Raise a Healthy Gamer,By: Alok Kanojia MD MPH,Length: 10 hrs
+205,A Clash of Kings,By: George R.R. Martin,Length: 37 hrs and 12 mins
+206,Big Bad Billionaires Boxset,By: L. Steele,Length: 83 hrs and 32 mins
+207,In Light of All Darkness,By: Kim Cross,Length: 13 hrs and 24 mins
+208,On a Throne of Lies,By: Eric Ugland,Length: 10 hrs and 45 mins
+209,TimeReaping in Deadwood,By: Ann Charles,Length: 11 hrs and 30 mins
+210,Lady of Darkness,By: Amanda Richardson,Length: 7 hrs and 17 mins
+211,Twisted Obsession,By: S. Massery,Length: 9 hrs and 23 mins
+212,Bookshops & Bonedust,By: Travis Baldree,Length: 8 hrs and 1 min
+213,A Danger Destroyed,"By: Auburn Tempest, Michael Anderle",Length: 9 hrs and 2 mins
+214,Beware of Chicken 3: A Xianxia Cultivation Novel,By: Casualfarmer,Length: 19 hrs and 32 mins
+215,The Downloaded,By: Robert J. Sawyer,Length: 5 hrs and 39 mins
+216,Accidental AF,By: Dakota Cassidy,Length: 7 hrs and 2 mins
+217,How They Broke Britain,By: James O'Brien,Length: 10 hrs and 23 mins
+218,The Loyal Wife,By: Natalie Barelli,Length: 7 hrs and 8 mins
+219,Pathfinders,By: JL Collins,Length: 9 hrs and 10 mins
+220,Clive Cussler: The Corsican Shadow,By: Dirk Cussler,Length: 12 hrs and 5 mins
+221,The Worry-Free Parent,By: Sissy Goff,Length: 7 hrs and 37 mins
+222,The Fellowship of the Ring,By: J. R. R. Tolkien,Length: 22 hrs and 38 mins
+223,Things We Left Behind,By: Lucy Score,Length: 19 hrs and 14 mins
+224,The Runesmith's Trials 2,By: Andrew Karevik,Length: 12 hrs and 7 mins
+225,The Lone Wolf's Rejected Mate,By: Cate C. Wells,Length: 9 hrs and 16 mins
+226,House of Earth and Blood (Part 1 of 2) (Dramatized Adaptation),By: Sarah J. Maas,Length: 10 hrs
+227,Dead Men Walking,By: Steve Lyons,Length: 10 hrs and 42 mins
+228,Overcoming Imposter Syndrome,"By: Kelly Vincent, The Great Courses",Length: 2 hrs and 10 mins
+229,Slayers: A Buffyverse Story,"By: Christopher Golden, Amber Benson",Length: 8 hrs and 2 mins
+230,Game Changer,"By: Jean-Manuel Izaret, Arnab Sinha",Length: 13 hrs and 54 mins
+231,The Abyss Inside,By: House of Abundance Publications,Length: 2 hrs and 43 mins
+232,Baiting Burke,By: Jaclyn Quinn,Length: 8 hrs and 53 mins
+233,Show Off,By: Lani Lynn Vale,Length: 5 hrs and 42 mins
+234,His Caged Wolf,By: Alex McAnders,Length: 8 hrs and 19 mins
+235,Den of Sins,"By: Alta Hensley, Renee Rose",Length: 7 hrs and 4 mins
+236,Blazer,By: Jake Brannigan,Length: 14 hrs and 46 mins
+237,Stand on Xanadu,By: John E. Siers,Length: 11 hrs and 43 mins
+238,A New Story of Wholeness,"By: Robert Atkinson, Deepak Chopra - afterword, Jean Houston - foreword",Length: 4 hrs and 47 mins
+239,Murtagh,By: Christopher Paolini,Length: 24 hrs and 32 mins
+240,Madame,By: Sara Cate,Length: 12 hrs and 5 mins
+241,Caregiver's Guide to Dementia,By: Stella Stone,Length: 3 hrs and 55 mins
+242,Dawn of Chaos,By: Benjamin Medrano,Length: 13 hrs and 11 mins
+243,Encounters,By: D. W. Pasulka,Length: 7 hrs and 9 mins
+244,These Broken Roads,By: Donna Marie Hayes,Length: 7 hrs and 15 mins
+245,From a Far and Lovely Country,By: Alexander McCall Smith,Length: 10 hrs and 15 mins
+246,The Great Hunt,By: Robert Jordan,Length: 26 hrs and 34 mins
+247,A Castle in the Air,By: Kelley Armstrong,Length: 11 hrs and 3 mins
+248,He Who Fights with Monsters: A LitRPG Adventure,"By: Shirtaloon, Travis Deverell",Length: 28 hrs and 56 mins
+249,Transformation,By: Seth Ring,Length: 13 hrs and 15 mins
+250,Star Wars: The Eye of Darkness (The High Republic),By: George Mann,Length: 15 hrs and 23 mins
+251,Iron Gold,By: Pierce Brown,Length: 23 hrs and 23 mins
+252,Wraith Squadron,By: Aaron Allston,Length: 14 hrs
+253,The Love Galore Mixtape,By: Alexandria House,Length: 37 mins
+254,Real Superfoods,"By: Ocean Robbins, Nichole Dandrea-Russert RDN",Length: 2 hrs and 51 mins
+255,Morning Star,By: Pierce Brown,Length: 21 hrs and 50 mins
+256,Fell for the Wrong One,By: Tay Mo'Nae,Length: 11 hrs and 35 mins
+257,Dragonfly in Amber,By: Diana Gabaldon,Length: 38 hrs and 54 mins
+258,People to Follow,By: Olivia Worley,Length: 10 hrs and 41 mins
+259,Moscow X,By: David McCloskey,Length: 17 hrs
+260,We Tell No One,By: Daniel Hurst,Length: 5 hrs and 47 mins
+261,"Harry Potter and the Chamber of Secrets, Book 2",By: J.K. Rowling,Length: 9 hrs and 2 mins
+262,Torrent Witches Cozy Mysteries Complete Box Set: Books 1-10,By: Tess Lake,Length: 65 hrs and 31 mins
+263,Visions of Flesh and Blood,"By: Jennifer L. Armentrout, Rayvn Salvador - contributor",Length: 6 hrs
+264,A Court of Wings and Ruin,By: Sarah J. Maas,Length: 25 hrs and 9 mins
+265,Her Creatures: The Complete Series,By: Maya Nicole,Length: 20 hrs and 4 mins
+266,Seabreeze Honeymoon,By: Jan Moran,Length: 8 hrs and 1 min
+267,Lord of Chaos,By: Robert Jordan,Length: 41 hrs and 32 mins
+268,Dark Encounters of the Fated Kind,By: I. T. Lucas,Length: 8 hrs and 41 mins
+269,Tired of Winning,By: Jonathan Karl,Length: 8 hrs and 32 mins
+270,[Psychokinetic] Eyeball Pulling,By: FreeID,Length: 22 hrs and 3 mins
+271,Random in Death,By: J. D. Robb,Length: 10 hrs and 45 mins
+272,Mao's America,By: Xi Van Fleet,Length: 8 hrs and 56 mins
+273,My Soul to Take,By: Meg Anne,Length: 4 hrs and 23 mins
+274,Going Infinite,By: Michael Lewis,Length: 8 hrs and 56 mins
+275,Big Witch Energy,By: Molly Harper,Length: 9 hrs and 49 mins
+276,"Harry Potter and the Deathly Hallows, Book 7",By: J.K. Rowling,Length: 21 hrs and 36 mins
+277,"Harry Potter and the Half-Blood Prince, Book 6",By: J.K. Rowling,Length: 18 hrs and 32 mins
+278,Prophets & Kings,By: Mesu Andrews,Length: 5 hrs and 44 mins
+279,Forgot to Say Goodbye,By: S.L. Scott,Length: 12 hrs and 36 mins
+280,3:53 a.m.,By: Nick Pirog,Length: 6 hrs
+281,The Sun Sets in Singapore,By: Kehinde Fadipe,Length: 12 hrs and 35 mins
+282,Queen of Shadows,By: Sarah J. Maas,Length: 20 hrs and 43 mins
+283,A Storm of Swords,By: George R.R. Martin,Length: 47 hrs and 34 mins
+284,Negotiation Made Simple,By: John Lowry,Length: 5 hrs and 46 mins
+285,Nestlings,By: Nat Cassidy,Length: 13 hrs and 4 mins
+286,Light Bringer,By: Pierce Brown,Length: 30 hrs and 8 mins
+287,"Harry Potter and the Order of the Phoenix, Book 5",By: J.K. Rowling,Length: 26 hrs and 28 mins
+288,Big Heart Little Stove,By: Erin French,Length: 11 hrs and 46 mins
+289,The Fall of Cadia,By: Robert Rath,Length: 19 hrs and 42 mins
+290,Your Body Is Your Brain,By: Amanda Blake,Length: 8 hrs and 43 mins
+291,"Prepper, Book 2",By: Tom Abrahams,Length: 7 hrs and 42 mins
+292,Empire of Storms,By: Sarah J. Maas,Length: 25 hrs and 18 mins
+293,The Gift,By: Freida McFadden,Length: 1 hr and 4 mins
+294,Move Fast and Fix Things,"By: Anne Morriss, Frances Frei",Length: 5 hrs and 17 mins
+295,Words of Radiance,By: Brandon Sanderson,Length: 48 hrs and 13 mins
+296,Butterfly 5,By: Ashley Antoinette,Length: 12 hrs and 19 mins
+297,Obsession Falls,By: Claire Kingsley,Length: 9 hrs and 38 mins
+298,The Mad Mick Box Set Volume 1,By: Franklin Horton,Length: 26 hrs and 23 mins
+299,The Italian,By: T L Swan,Length: 16 hrs and 52 mins
+300,Energy Follows Thought,"By: Willie Nelson, David Ritz, Mickey Raphael",Length: 6 hrs and 41 mins
+301,Sherlock Holmes,"By: Arthur Conan Doyle, Stephen Fry - introductions",Length: 62 hrs and 52 mins
+302,Dune Messiah,By: Frank Herbert,Length: 8 hrs and 57 mins
+303,The Women,By: Kristin Hannah,Length: 15 hrs
+304,A Curse of Krakens,By: Kevin Hearne,Length: 23 hrs and 19 mins
+305,Sons of Valor III: War Machine,"By: Brian Andrews, Jeffrey Wilson",Length: 11 hrs
+306,Trapper Road,"By: Rachel Caine, Carrie Ryan",Length: 13 hrs and 2 mins
+307,Romance Rules for Werewolves,By: Linsey Hall,Length: 7 hrs and 33 mins
+308,Ignition,By: Seth Ring,Length: 14 hrs
+309,A Court of Thorns and Roses,By: Sarah J. Maas,Length: 16 hrs and 7 mins
+310,The Night Island,By: Jayne Ann Krentz,Length: 11 hrs and 15 mins
+311,"Apocalypse Redux, Book Four",By: Jakob H. Greif,Length: 15 hrs and 59 mins
+312,Oathbringer,By: Brandon Sanderson,Length: 55 hrs and 5 mins
+313,The Well of Ascension,By: Brandon Sanderson,Length: 28 hrs and 56 mins
+314,"Harry Potter and the Prisoner of Azkaban, Book 3",By: J.K. Rowling,Length: 11 hrs and 49 mins
+315,Your Journey Into Eternity,By: Perry Stone,Length: 6 hrs and 41 mins
+316,Check & Mate,By: Ali Hazelwood,Length: 9 hrs and 31 mins
+317,Hazard Pay and Other Tales,By: John G. Hartness,Length: 4 hrs
+318,The Way of Kings,By: Brandon Sanderson,Length: 45 hrs and 30 mins
+319,Dark One,By: Brandon Sanderson,Length: 5 hrs
+320,Sweet Sin,By: Helen Hardt,Length: 6 hrs and 19 mins
+321,TBD,By: Mark Tufo,Length: Not Yet Known
+322,The Sea of Monsters,By: Rick Riordan,Length: 7 hrs and 55 mins
+323,A Court of Mist and Fury,By: Sarah J. Maas,Length: 23 hrs and 16 mins
+324,Guarded by the Marshal,By: Kennedy L. Mitchell,Length: 8 hrs and 51 mins
+325,The Fires of Heaven,By: Robert Jordan,Length: 36 hrs and 27 mins
+326,Heir of Fire,By: Sarah J. Maas,Length: 17 hrs and 56 mins
+327,How to ADHD,By: Jessica McCabe,Length: 9 hrs
+328,Christmas Pie,By: Jodi Taylor,Length: 10 hrs
+329,Why We Sleep,By: Matthew Walker,Length: 13 hrs and 52 mins
+330,Argylle,By: Elly Conway,Length: 15 hrs
+331,The Shadow Rising,By: Robert Jordan,Length: 41 hrs and 13 mins
+332,Prequel,By: Rachel Maddow,Length: 13 hrs and 9 mins
+333,Kingdom of Ash,By: Sarah J. Maas,Length: 33 hrs and 11 mins
+334,House of Sky and Breath,By: Sarah J. Maas,Length: 27 hrs and 42 mins
+335,The Broken Vows,By: Catharina Maura,Length: 15 hrs and 45 mins
+336,Yours to Catch,By: Harloe Rae,Length: 7 hrs and 24 mins
+337,A Christmas to Remember,By: Beverly Jenkins,Length: 9 hrs and 20 mins
+338,"Dark Moon, Shallow Sea",By: David R. Slayton,Length: 11 hrs and 29 mins
+339,The Dungeon Anarchist's Cookbook,By: Matt Dinniman,Length: 16 hrs and 54 mins
+340,"Overlord, Vol. 11 (Light Novel)","By: Kugane Maruyama, so-bin - illustrator",Length: 10 hrs
+341,Monster Hunter Memoirs: Fever,"By: Larry Correia, Jason Cordova",Length: 12 hrs and 13 mins
+342,House of Striking Oaths,By: Olivia Wildenstein,Length: 15 hrs and 52 mins
+343,Outlive,"By: Peter Attia MD, Bill Gifford - contributor",Length: 17 hrs and 7 mins
+344,In Another World with My Smartphone: Volume 5,By: Patora Fuyuhara,Length: 7 hrs and 19 mins
+345,Catnip Charms,By: Danielle Garrett,Length: 5 hrs and 3 mins
+346,Pod,By: Laline Paull,Length: 9 hrs and 27 mins
+347,Days Like Shadows Pass,By: M S Morris,Length: 7 hrs and 51 mins
+348,A Soul to Keep,By: Opal Reyne,Length: 17 hrs and 43 mins
+349,A Court of Silver Flames,By: Sarah J. Maas,Length: 26 hrs and 5 mins
+350,Blood Knife: An Urban Fantasy LitRPG,"By: Joost Lassche, Osirium Writes",Length: 7 hrs and 10 mins
+351,Brisingr,By: Christopher Paolini,Length: 29 hrs and 34 mins
+352,Casting Light,By: Alice Winters,Length: 9 hrs and 26 mins
+353,How to Walk,By: Thich Nhat Hanh,Length: 1 hr and 5 mins
+354,Crown of Midnight,By: Sarah J. Maas,Length: 12 hrs and 43 mins
+355,The Graham Effect,By: Elle Kennedy,Length: 14 hrs and 3 mins
+356,Made & Marred,By: Samantha R. Goode,Length: 16 hrs and 57 mins
+357,The Chronicles of Narnia Complete Audio Collection,By: C. S. Lewis,Length: 33 hrs and 45 mins
+358,Go Tell the Bees That I Am Gone,By: Diana Gabaldon,Length: 49 hrs and 27 mins
+359,House of Earth and Blood,By: Sarah J. Maas,Length: 27 hrs and 50 mins
+360,Golden Son (Part 2 of 2) (Dramatized Adaptation),By: Pierce Brown,Length: 8 hrs and 28 mins
+361,"Harry Potter and the Sorcerer's Stone, Book 1",By: J.K. Rowling,Length: 8 hrs and 18 mins
+362,Unmasking AI,By: Joy Buolamwini,Length: 9 hrs and 53 mins
+363,Killing Floor,By: Lee Child,Length: 17 hrs and 47 mins
+364,That's One Big Deck,By: Mika Rayne,Length: 12 hrs and 12 mins
+365,Lucien,By: Grae Bryan,Length: 7 hrs and 51 mins
+366,Elizabeth Bennet’s Inheritance,By: Laraba Kendig,Length: 10 hrs and 44 mins
+367,The Dragon Reborn,By: Robert Jordan,Length: 24 hrs and 48 mins
+368,Golden Son,By: Pierce Brown,Length: 19 hrs and 3 mins
+369,Tower of Dawn,By: Sarah J. Maas,Length: 22 hrs and 39 mins
+370,The Wise Man's Fear,By: Patrick Rothfuss,Length: 42 hrs and 55 mins
+371,The House Guest,By: Alison James,Length: 7 hrs and 47 mins
+372,Never Finished,By: David Goggins,Length: 11 hrs and 6 mins
+373,The Reluctant Superhero Book 1,By: D. Levesque,Length: 8 hrs and 23 mins
+374,Rhythm of War,By: Brandon Sanderson,Length: 57 hrs and 26 mins
+375,Bittersweet Melody,By: Kate Stewart,Length: 2 hrs and 23 mins
+376,Tenacity,By: Dakota Krout,Length: 11 hrs and 42 mins
+377,Dead Shadow,By: Candle Sutton,Length: 9 hrs and 8 mins
+378,Pride and Prejudice,By: Jane Austen,Length: 11 hrs and 35 mins
+379,Lena Horne,By: Donald Bogle,Length: 10 hrs and 12 mins
+380,The Stand,By: Stephen King,Length: 47 hrs and 47 mins
+381,Misdeeds of a Billionaire,By: Eva Winners,Length: 12 hrs and 3 mins
+382,"Harry Potter and the Goblet of Fire, Book 4",By: J.K. Rowling,Length: 20 hrs and 36 mins
+383,Trials of Cydaria,By: SunriseCV,Length: 13 hrs and 16 mins
+384,Rise of the Weakest Summoner: Volume VII,By: J.R. Saileri,Length: 19 hrs and 1 min
+385,A Dish Best Served Hot,By: Natalie Caña,Length: 9 hrs and 28 mins
+386,48 Laws of Power,By: Robert Greene,Length: 23 hrs and 6 mins
+387,Yoda: Dark Rendezvous,By: Sean Stewart,Length: 14 hrs
+388,How Not to Age,By: Michael Greger MD FACLM,Length: 27 hrs and 58 mins
+389,The Path of Ascension: Books 1-3.5,By: C. Mantis,Length: 70 hrs and 2 mins
+390,Exiled Heir,By: Kai Butler,Length: 13 hrs and 15 mins
+391,Sentinel,By: Mark Greaney,Length: 17 hrs
+392,Ghost Town Living,By: Brent Underwood,Length: 9 hrs
+393,He Who Fights with Monsters 9,"By: Shirtaloon, Travis Deverell",Length: 28 hrs and 3 mins
+394,The Things We Cannot Say,By: Kelly Rimmer,Length: 13 hrs and 47 mins
+395,The Reformatory,By: Tananarive Due,Length: 20 hrs and 51 mins
+396,Tom Clancy Act of Defiance,"By: Brian Andrews, Jeffrey Wilson",Length: 13 hrs
+397,"I, the Vampire & Other Weird, Forgotten Tales of the Undead","By: Lester del Rey, Henry Kuttner, Seabury Quinn, E. Everett Evans, Ray Bradbury",Length: 7 hrs and 14 mins
+398,The Armor of Light,By: Ken Follett,Length: 21 hrs and 39 mins
+399,Vicious,By: AJ Merlin,Length: 7 hrs and 45 mins
+400,Shadow Work Journal and Workbook,By: Victoria Stevens,Length: 5 hrs and 15 mins
+401,How to Win Friends & Influence People,By: Dale Carnegie,Length: 7 hrs and 15 mins
+402,Percy Jackson and the Olympians: The Chalice of the Gods,By: Rick Riordan,Length: 7 hrs and 5 mins
+403,Realmslayer: Legend of the Doomseeker,By: David Guymer,Length: 12 hrs and 33 mins
+404,He Who Fights with Monsters 8,"By: Shirtaloon, Travis Deverell",Length: 18 hrs and 12 mins
+405,The Secret,"By: Lee Child, Andrew Child",Length: 9 hrs and 14 mins
+406,It,By: Stephen King,Length: 44 hrs and 55 mins
+407,The Broken Protector,By: Nicole Snow,Length: 13 hrs and 21 mins
+408,The Storyteller: Expanded,By: Dave Grohl,Length: 11 hrs and 38 mins
+409,Into the Fire,By: Irene Hannon,Length: 11 hrs and 14 mins
+410,He Who Fights with Monsters 4,"By: Shirtaloon, Travis Deverell",Length: 22 hrs and 20 mins
+411,Hercule Poirot: The Complete Short Stories,By: Agatha Christie,Length: 35 hrs and 5 mins
+412,A Shadow in the Ember,By: Jennifer L. Armentrout,Length: 25 hrs and 7 mins
+413,The Tapestry of a Heart,By: Erin Zak,Length: 8 hrs and 25 mins
+414,Behind the Net,By: Stephanie Archer,Length: 11 hrs and 38 mins
+415,Ruthless Vows,By: Rebecca Ross,Length: 11 hrs and 30 mins
+416,A Court of Frost and Starlight,By: Sarah J. Maas,Length: 6 hrs and 23 mins
+417,He Who Fights with Monsters 5,"By: Shirtaloon, Travis Deverell",Length: 20 hrs and 5 mins
+418,Butcher & Blackbird,By: Brynne Weaver,Length: 8 hrs and 43 mins
+419,The Two Towers,By: J. R. R. Tolkien,Length: 20 hrs and 46 mins
+420,The Running Grave,By: Robert Galbraith,Length: 34 hrs and 14 mins
+421,The Fellowship of the Ring,By: J. R. R. Tolkien,Length: 19 hrs and 7 mins
+422,Ignite the Magic,By: Donna Grant,Length: 8 hrs and 35 mins
+423,Never Lie,By: Freida McFadden,Length: 7 hrs and 21 mins
+424,Sparks,By: Ian Johnson,Length: 12 hrs and 11 mins
+425,Remarkably Bright Creatures,By: Shelby Van Pelt,Length: 11 hrs and 16 mins
+426,The Lord of the End Times,By: Josh Reynolds,Length: 16 hrs and 44 mins
+427,Jackson,By: Neven Iliev,Length: 18 hrs and 1 min
+428,Hunters of the Dead,By: Steve Hockensmith,Length: 8 hrs and 44 mins
+429,Bright Young Women,By: Jessica Knoll,Length: 12 hrs and 58 mins
+430,A Kingdom of Flesh and Fire,By: Jennifer L. Armentrout,Length: 24 hrs and 21 mins
+431,The Exchange,By: John Grisham,Length: 9 hrs and 1 min
+432,10x Is Easier than 2x,"By: Dan Sullivan, Dr. Benjamin Hardy",Length: 9 hrs and 58 mins
+433,The Innocent Sleep,By: Seanan McGuire,Length: 15 hrs and 18 mins
+434,Watch Your Mouth,By: Kandi Steiner,Length: 10 hrs and 35 mins
+435,Worthy,By: Jada Pinkett Smith,Length: 14 hrs and 57 mins
+436,Vault,By: Nicoli Gonnella,Length: 25 hrs and 34 mins
+437,Dawn Arrives (Dramatized Adaptation),"By: Michael Anderle, Ell Leigh Clarke",Length: 4 hrs and 35 mins
+438,The Power of Now,By: Eckhart Tolle,Length: 7 hrs and 37 mins
+439,Breaking the Habit of Being Yourself,By: Joe Dispenza,Length: 10 hrs and 49 mins
+440,Relatos de la noche [Stories of the Night],By: Uriel Reyes,Length: 3 hrs and 16 mins
+441,$100M Leads,By: Alex Hormozi,Length: 6 hrs
+442,The Penthouse Affair,By: Kendall Ryan,Length: 9 hrs and 4 mins
+443,A Dance with Dragons,By: George R.R. Martin,Length: 48 hrs and 55 mins
+444,Paid in Full,"By: Brea Alepoú, Skyler Snow",Length: 10 hrs and 59 mins
+445,The Worst Ship in the Fleet,By: Skyler Ramirez,Length: 2 hrs and 51 mins
+446,Face-Off: Shadows Landing,By: Kathleen Brooks,Length: 7 hrs and 26 mins
+447,The Subtle Art of Not Giving a F*ck,By: Mark Manson,Length: 5 hrs and 17 mins
+448,Starter Villain,By: John Scalzi,Length: 8 hrs and 5 mins
+449,Holly,By: Stephen King,Length: 15 hrs and 24 mins
+450,The Lodge,By: Sue Watson,Length: 9 hrs and 35 mins
+451,Life in the Fast Lane,By: Mick Wall,Length: 10 hrs and 45 mins
+452,The Final Empire,By: Brandon Sanderson,Length: 24 hrs and 39 mins
+453,"The Legend of Dave the Villager, Books 21–25",By: Dave Villager,Length: 8 hrs and 43 mins
+454,A Pack for Christmas,By: Jillian West,Length: 8 hrs and 36 mins
+455,Amazon Apocalypse,By: Marvin Knight,Length: 20 hrs and 46 mins
+456,The Highly Sensitive Child,By: Elaine N. Aron PhD,Length: 12 hrs and 55 mins
+457,How It Went,By: Wendell Berry,Length: 5 hrs and 36 mins
+458,The Primal Hunter 5,By: Zogarth,Length: 17 hrs and 47 mins
+459,Forbidden Fruit,By: Sam Hall,Length: 13 hrs and 37 mins
+460,Blood Sisters,By: Vanessa Lillie,Length: 9 hrs and 48 mins
+461,Rivals for Love,By: Ali Vali,Length: 11 hrs and 30 mins
+462,The Ballad of Songbirds and Snakes,By: Suzanne Collins,Length: 16 hrs and 16 mins
+463,How to Talk to Anyone,By: Leil Lowndes,Length: 8 hrs and 59 mins
+464,The Two Towers,By: J. R. R. Tolkien,Length: 16 hrs and 40 mins
+465,The River's Edge,By: Joy Ellis,Length: 11 hrs and 24 mins
+466,Spare,By: Prince Harry The Duke of Sussex,Length: 15 hrs and 39 mins
+467,Dracula [Audible Edition],By: Bram Stoker,Length: 15 hrs and 27 mins
+468,Murder in a French Village,By: Merryn Allingham,Length: 7 hrs and 56 mins
+469,The Alpha's Fated Encounter,By: Roxie Ray,Length: 21 hrs and 54 mins
+470,Atlas of the Heart,By: Brené Brown,Length: 8 hrs and 29 mins
+471,The Hunger Games: Special Edition,By: Suzanne Collins,Length: 10 hrs and 35 mins
+472,The Return of the King,By: J. R. R. Tolkien,Length: 21 hrs and 52 mins
+473,Star Wars: The Living Force,By: John Jackson Miller,Length: 12 hrs
+474,Third-Heaven Authority,By: Mike Thompson,Length: 6 hrs and 54 mins
+475,The Parent's Tao Te Ching,By: William Martin,Length: 3 hrs and 13 mins
+476,Revenant,By: Jez Cajiao,Length: 24 hrs and 25 mins
+477,Demon Copperhead,By: Barbara Kingsolver,Length: 21 hrs and 3 mins
+478,A Court of Mist and Fury (Part 1 of 2) (Dramatized Adaptation),By: Sarah J. Maas,Length: 8 hrs and 26 mins
+479,Red Rising,By: Pierce Brown,Length: 16 hrs and 12 mins
+480,Mystified in Music City,By: Kristen Painter,Length: 7 hrs and 2 mins
+481,Supply Chain,By: Harvard Business Review,Length: 3 hrs and 5 mins
+482,To Kill a Mockingbird,By: Harper Lee,Length: 12 hrs and 17 mins
+483,True Believer,By: Jack Carr,Length: 15 hrs and 44 mins
+484,The ChatGPT Advantage,By: Diana Sterling,Length: 12 hrs and 33 mins
+485,What the River Knows,By: Isabel Ibañez,Length: 16 hrs and 36 mins
+486,Eldest,By: Christopher Paolini,Length: 23 hrs and 30 mins
+487,The Paris Dressmaker,By: Kristy Cambron,Length: 12 hrs and 27 mins
+488,"The Lost Years, Part I",By: Nicholas Sansbury Smith,Length: 3 hrs
+489,City People,By: Elizabeth Topp,Length: 10 hrs and 55 mins
+490,The Eye of the World,By: Robert Jordan,Length: 29 hrs and 57 mins
+491,A Newlywed's Guide to Fortune and Murder,By: Dianne Freeman,Length: 8 hrs and 33 mins
+492,"The Word of Promise Audio Bible—New King James Version, NKJV: Complete Bible",By: Thomas Nelson Inc.,Length: 98 hrs and 1 min
+493,He Who Fights with Monsters 2,"By: Shirtaloon, Travis Deverell",Length: 22 hrs and 1 min
+494,Freed,By: E. L. James,Length: 27 hrs and 15 mins
+495,The Night Raven,"By: Johan Rundberg, A. A. Prime - translator",Length: 4 hrs and 11 mins
+496,French & Saunders Titting About (Series 4),"By: Dawn French, Jennifer Saunders",Length: 3 hrs and 10 mins
+497,Timeless,By: Travis Bagwell,Length: 27 hrs and 32 mins
+498,Dune,By: Frank Herbert,Length: 21 hrs and 2 mins
+499,These Thin Lines,By: Milena McKay,Length: 11 hrs and 45 mins
